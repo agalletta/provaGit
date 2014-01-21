@@ -17,6 +17,10 @@ public class ProvaGit {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("stiamo facendo una prova che serve a nulla");
+        for(int i=0;i<5;i++){
+            System.out.println(i);
+        }
     }
     
 }
